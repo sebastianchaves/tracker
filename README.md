@@ -1,2 +1,2 @@
-# tracker
+# Tracker
 Web Scala Application
